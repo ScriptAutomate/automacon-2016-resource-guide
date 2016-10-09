@@ -89,10 +89,10 @@ Habitat is an open-source framework that gives modern application teams an appli
 
 In this talk we will explore:
 
-    Introduction to Habitat
-    The problems Habitat solves
-    Getting started with Habitat Plans
-    Using Habitat in your Chef workflow
+* Introduction to Habitat
+* The problems Habitat solves
+* Getting started with Habitat Plans
+* Using Habitat in your Chef workflow
 
 ---
 
