@@ -57,10 +57,10 @@ Tuesday, September 27, 2016 at 10:40 AM
 
 In this hands-on workshop you will learn how to build automation tools on top of the Kubernetes API. After attending this workshop you will know how to:
 
-    Build a workload rebalancer to shift workloads across a Kubernetes cluster
-    Build a custom scheduler
-    Build integrations between Kubernetes and popular load balancers such as Nginx and HAProxy.
-    Distribute application configs and secrets using HashiCorps vault.
+* Build a workload rebalancer to shift workloads across a Kubernetes cluster
+* Build a custom scheduler
+* Build integrations between Kubernetes and popular load balancers such as Nginx and HAProxy.
+* Distribute application configs and secrets using HashiCorps vault.
 
 This workshop is for advanced Kubernetes users looking to take their Kubernetes skills to the next level. Attendees should have experience managing applications in a Kubernetes cluster.
 
