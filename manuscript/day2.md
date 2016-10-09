@@ -15,6 +15,8 @@
   * [Stop Demonizing curl | bash](https://speakerdeck.com/jtimberman/stop-demonizing-curl-bash)
   * [The Problem with Linux Kernel Documentation, and How We're (as in Samsung, is) Fixing It](https://blogs.s-osg.org/problem-linux-kernel-documentation-fixing/)
 
+---
+
 ## Automating Kubernetes Cluster Ops at Digital Ocean
 **[Dan Norris](https://twitter.com/protochron), Software Engineer @ [Digital Ocean](https://twitter.com/digitalocean)**
 
@@ -26,6 +28,8 @@
 * GitHub: [@protochron](https://github.com/protochron)
 * Recordings/Articles of the presentation
   * 
+
+---
 
 ## Open Source, Supply Chains, and You!
 **[Robyn Bereron](https://twitter.com/robynbergeron), Community Architect @ [Ansible by Red Hat](https://twitter.com/ansible?lang=en)**
@@ -43,6 +47,8 @@
 * Misc Resources
   * [11Foot8 Bridge Crash Compilation](https://www.youtube.com/watch?v=xzkWTcDZFH0)
 
+---
+
 ## The Network is Infrastructure Too
 **[Pete Lumbis](https://twitter.com/PeteCCDE), Systems Engineer @ [Cumulus Networks](https://twitter.com/CumulusNetworks)**
 
@@ -56,6 +62,8 @@
 * Misc Resources
   * [Demo of Continuous Integration for Networks](https://gitlab.com/plumbis/cumulus-ci-cd)
   * [Behave: Behavior-Driven Development w/ Python](http://pythonhosted.org/behave/)
+
+---
 
 ## The Psychology of Security Automation
 **[Jason Chan](https://twitter.com/chanjbs), Engineering Director @ [Netflix]()**
@@ -71,8 +79,7 @@
   * [Scumbler: Web App That Kicks Off Workflows Based on Search Results (Netflix OSS)](https://github.com/Netflix/Scumblr)
   * [Gitrob: Putting the Open Source in OSINT](https://github.com/michenriksen/gitrob)
 
-  ---
-
+---
 
 Habitat 101, An Introduction to Habitat
 by Joshua Timberman , Code Cleric @ Chef
@@ -86,8 +93,8 @@ In this talk we will explore:
     The problems Habitat solves
     Getting started with Habitat Plans
     Using Habitat in your Chef workflow
----
 
+---
 
 Achieving continuous deployment on Kubernetes
 by Dan Bode , Senior Engineer @ Intel
@@ -101,7 +108,6 @@ This presentation will cover our solution, including the features we used and th
 
 ---
 
-
 Infrastructure as Code with Terraform
 by Seth Vargo , Head of Evangelism @ Hashicorp
 Wednesday, September 28, 2016 at 2:50 PM
@@ -114,7 +120,6 @@ Come learn about using Terraform to manage your infrastructure!
 
 ---
 
-
 Unikernels: A New Frontier
 by John Feminella , Advisor @ Pivotal
 Wednesday, September 28, 2016 at 3:30 PM
@@ -124,7 +129,6 @@ Unikernels are a powerful new technique for generating compact, isolated contain
 In this talk, we'll try to answer this question by providing a brief introduction to unikernels, show you how to build your own, and explaining the most important considerations of running them in the real world.
 
 ---
-
 
 State of Infrastructure as Code
 by Chris Munns , Business Development Manager — DevOps @ Amazon Web Services
@@ -136,7 +140,6 @@ Come take a tour of the space as we see it. Learn what layers there are to manag
 
 ---
 
-
 Everybody has a plan until... — Automation Evolution While Scaling
 by Pete Cheslock , Sr Director Ops and Support @ Threat Stack
 Wednesday, September 28, 2016 at 4:10 PM
@@ -144,5 +147,3 @@ Wednesday, September 28, 2016 at 4:10 PM
 Many people dream of the opportunity for a true greenfield deployment opportunity. Where they can join a new or existing company and build things The Right Way™. That idea is all well and good until the plans change. And your plans will always change. There are far too many things outside of your control when it comes to how you design and build your automation tooling. Often times you need to pick something you know will work and promise yourself you will go back and fix it later.
 
 Join me as I talk about the early days of Threat Stack and how we built out our initial automation and software delivery pipeline. Then, hop on board the scale train as I share with you how we evolved our infrastructure delivery to meet our growing needs. I'll share with you some of the tooling we built in house to help us, as well as the OSS tools that we consume
-
----
