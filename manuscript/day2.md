@@ -118,7 +118,7 @@ Come learn about using Terraform to manage your infrastructure!
 ---
 
 ## Unikernels: A New Frontier
-**John Feminella , Advisor @ [Pivotal]()**
+**[John Feminella](), Advisor @ [Pivotal]()**
 
 Unikernels are a powerful new technique for generating compact, isolated containers with minimal surface area. But like all powerful tools, their benefits and disadvantages must be carefully weighed. Are unikernels worth the tradeoffs required?
 
