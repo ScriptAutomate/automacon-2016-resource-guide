@@ -1,8 +1,4 @@
-# AutomaCon 2.0: 2016 Resource Guide
-
-From the [AutomaCon website](http://www.automacon.io/):
-
-## AutomaCon: The Infrastructure as Code Conference
+# AutomaCon: The Infrastructure as Code Conference
 
 <center><a rel="logo" href="http://www.automacon.io/"><img alt="AutomaCon Logo" style="border-width:0" src="http://www.automacon.io/img/logo-full-color.png" /></a></center>
 
