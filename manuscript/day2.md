@@ -84,45 +84,45 @@
 ## Habitat 101, An Introduction to Habitat
 **[Joshua Timberman](), Code Cleric @ [Chef]()**
 
-Habitat is an open-source framework that gives modern application teams an application-centric automation platform. Build, deploy, and manage modern and legacy applications with Habitat.
+*Habitat is an open-source framework that gives modern application teams an application-centric automation platform. Build, deploy, and manage modern and legacy applications with Habitat.*
 
-In this talk we will explore:
+*In this talk we will explore:*
 
-* Introduction to Habitat
-* The problems Habitat solves
-* Getting started with Habitat Plans
-* Using Habitat in your Chef workflow
+* *Introduction to Habitat*
+* *The problems Habitat solves*
+* *Getting started with Habitat Plans*
+* *Using Habitat in your Chef workflow*
 
 ---
 
 ## Achieving Continuous Deployment on Kubernetes
 **[Dan Bode](), Senior Engineer @ [Intel]()**
 
-At Intel, we selected Kubernetes as the platform for building a Testing-as-a-Service offering for our internal development teams. In doing so we realized several key benefits: it simplified the deployment model, reduced configuration entropy, and allowed us to easily auto-scale agents to meet peak demand.
+*At Intel, we selected Kubernetes as the platform for building a Testing-as-a-Service offering for our internal development teams. In doing so we realized several key benefits: it simplified the deployment model, reduced configuration entropy, and allowed us to easily auto-scale agents to meet peak demand.*
 
-While the initial proof of concept was easy, implementing continuous deployment proved to be much more challenging.
+*While the initial proof of concept was easy, implementing continuous deployment proved to be much more challenging.*
 
-This presentation will cover our solution, including the features we used and the role that configuration management played in getting us from: "I’ve seen it work" to having confidence that any individual change won’t result in service downtime.
+*This presentation will cover our solution, including the features we used and the role that configuration management played in getting us from: "I’ve seen it work" to having confidence that any individual change won’t result in service downtime.*
 
 ---
 
 ## Infrastructure as Code with Terraform
 **[Seth Vargo](), Head of Evangelism @ [Hashicorp]()**
 
-This talk is aimed at teaching users the internals and externals of Terraform, a free and open source tool for provisioning infrastructure. Terraform truly encapsulates "infrastructure as code" with its declarative DSL, the ability to manage cloud and bare-metal resources, and expanding community support for CDNs, third-party mail providers, and more.
+*This talk is aimed at teaching users the internals and externals of Terraform, a free and open source tool for provisioning infrastructure. Terraform truly encapsulates "infrastructure as code" with its declarative DSL, the ability to manage cloud and bare-metal resources, and expanding community support for CDNs, third-party mail providers, and more.*
 
-Terraform's graph-based approach allows for maximum parallelization, making it one of the faster infrastructure provisioning tools on the market. With a VCS-friendly format and remote state management, Terraform is also a great tool for working in a team environment.
+*Terraform's graph-based approach allows for maximum parallelization, making it one of the faster infrastructure provisioning tools on the market. With a VCS-friendly format and remote state management, Terraform is also a great tool for working in a team environment.*
 
-Come learn about using Terraform to manage your infrastructure!
+*Come learn about using Terraform to manage your infrastructure!*
 
 ---
 
 ## Unikernels: A New Frontier
 **[John Feminella](), Advisor @ [Pivotal]()**
 
-Unikernels are a powerful new technique for generating compact, isolated containers with minimal surface area. But like all powerful tools, their benefits and disadvantages must be carefully weighed. Are unikernels worth the tradeoffs required?
+*Unikernels are a powerful new technique for generating compact, isolated containers with minimal surface area. But like all powerful tools, their benefits and disadvantages must be carefully weighed. Are unikernels worth the tradeoffs required?*
 
-In this talk, we'll try to answer this question by providing a brief introduction to unikernels, show you how to build your own, and explaining the most important considerations of running them in the real world.
+*In this talk, we'll try to answer this question by providing a brief introduction to unikernels, show you how to build your own, and explaining the most important considerations of running them in the real world.*
 
 ---
 
