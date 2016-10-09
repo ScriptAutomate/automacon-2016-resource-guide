@@ -135,8 +135,8 @@ Come take a tour of the space as we see it. Learn what layers there are to manag
 
 ---
 
-Everybody has a plan until... -- Automation Evolution While Scaling
-by Pete Cheslock , Sr Director Ops and Support @ Threat Stack
+## Everybody has a plan until... -- Automation Evolution While Scaling
+**[Pete Cheslock](), Sr Director Ops and Support @ [Threat Stack]()**
 Wednesday, September 28, 2016 at 4:10 PM
 
 Many people dream of the opportunity for a true greenfield deployment opportunity. Where they can join a new or existing company and build things The Right Way™. That idea is all well and good until the plans change. And your plans will always change. There are far too many things outside of your control when it comes to how you design and build your automation tooling. Often times you need to pick something you know will work and promise yourself you will go back and fix it later.
