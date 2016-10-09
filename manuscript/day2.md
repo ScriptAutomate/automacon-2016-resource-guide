@@ -83,7 +83,6 @@
 
 Habitat 101, An Introduction to Habitat
 **[Joshua Timberman](), Code Cleric @ [Chef]()**
-Wednesday, September 28, 2016 at 2:05 PM
 
 Habitat is an open-source framework that gives modern application teams an application-centric automation platform. Build, deploy, and manage modern and legacy applications with Habitat.
 
