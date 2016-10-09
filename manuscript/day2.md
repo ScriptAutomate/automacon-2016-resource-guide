@@ -43,7 +43,7 @@
 * Blog: [Robyn's Wordshack](https://robyn.io/)
 * GitHub: [@robynbergeron](https://github.com/robynbergeron)
 * Recordings/Articles of the presentation
-  * 
+  *  
 * Misc Resources
   * [11Foot8 Bridge Crash Compilation](https://www.youtube.com/watch?v=xzkWTcDZFH0)
 
@@ -58,7 +58,7 @@
 * GitHub: [@plumbis](https://github.com/plumbis)
 * GitLab: [@plumbis](https://gitlab.com/u/plumbis)
 * Recordings/Articles of the presentation
-  * 
+  *  
 * Misc Resources
   * [Demo of Continuous Integration for Networks](https://gitlab.com/plumbis/cumulus-ci-cd)
   * [Behave: Behavior-Driven Development w/ Python](http://pythonhosted.org/behave/)
