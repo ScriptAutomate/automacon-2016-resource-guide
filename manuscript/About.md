@@ -46,7 +46,7 @@ The main GitHub repo is authoritative. GitBook will usually contain the latest v
 
 Someone attending who wanted an excuse to put together an ebook made entirely in Markdown, and who wants speakers/attendees to be able to contribute to it as an open-source project.
 
-[Derek Ardolf](), Systems Development Engineer @ [Amazon Web Services]()
+**[Derek Ardolf](), Systems Development Engineer @ [Amazon Web Services]()**
 
 * Blog: [HalfwayToInfinite](https://HalfwayToInfinite.com)
 * GitHub: [@ScriptAutomate](https://github.com/scriptautomate)
