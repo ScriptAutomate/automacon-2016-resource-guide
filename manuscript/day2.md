@@ -81,7 +81,7 @@
 
 ---
 
-Habitat 101, An Introduction to Habitat
+## Habitat 101, An Introduction to Habitat
 **[Joshua Timberman](), Code Cleric @ [Chef]()**
 
 Habitat is an open-source framework that gives modern application teams an application-centric automation platform. Build, deploy, and manage modern and legacy applications with Habitat.
@@ -95,8 +95,8 @@ In this talk we will explore:
 
 ---
 
-Achieving continuous deployment on Kubernetes
-by Dan Bode , Senior Engineer @ Intel
+## Achieving continuous deployment on Kubernetes
+[Dan Bode](), Senior Engineer @ [Intel]()
 Wednesday, September 28, 2016 at 2:30 PM
 
 At Intel, we selected Kubernetes as the platform for building a Testing-as-a-Service offering for our internal development teams. In doing so we realized several key benefits: it simplified the deployment model, reduced configuration entropy, and allowed us to easily auto-scale agents to meet peak demand.
