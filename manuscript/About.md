@@ -4,9 +4,9 @@ From the [AutomaCon website](http://www.automacon.io/):
 
 ## AutomaCon: The Infrastructure as Code Conference
 
-![Degree of Typing](images/automacon-logo.png)
+<center><a rel="logo" href="http://www.automacon.io/"><img alt="AutomaCon Logo" style="border-width:0" src="http://www.automacon.io/img/logo-full-color.png" /></a></center>
 
-<center><i>If you were to conduct an informal survey of our industry peers and ask them to define Infrastructure as Code, it's quite possible that no two answers would be the same. Many would respond "Chef" or "Puppet" or another flavor of configuration management. Others might suggest that container-based solutions such as Docker are the answer. Still others might think of full-stack templating solutions such as Terraform. In reality, none of these tools alone can tell the whole story.
+<center><i>If you were to conduct an informal survey of our industry peers and ask them to define Infrastructure as Code, it's quite possible that no two answers would be the same. Many would respond "Chef" or "Puppet" or another flavor of configuration management. Others might suggest that container-based solutions such as Docker are the answer. Still others might think of full-stack templating solutions such as Terraform. In reality, none of these tools alone can tell the whole story.</br>
 
 Modern DevOps concerns have evolved to encompass more holistic approaches to infrastructure automation. AutomaCon will gather the leading minds and practitioners in the DevOps community together to exchange ideas, with the goal of updating and unifying the industry's definition of "Infrastructure as Code". We will draw on the experiences of those who have stories to share, learn about new tooling & workflows, and identify vendor-agnostic best practices.</i></center>
 
@@ -33,13 +33,12 @@ This resource guide will be listing the following links for each speaker/present
 
 ---
 
-**Check for Updates!** This ebook may be updated with new and corrected content. I make them available in three ways:
+**Check for Updates!** This ebook may be updated with new and corrected content. I make it available in two ways:
 
-* The main, authoritative [GitHub Repo](GITHUB-REPO-LINK), with a repo for each book. Visit https://github.com/devops-collective-inc/
-* The [GitBook page](GITBOOK-REPO-LINK), where you can browse books online, or download as PDF, EPUB, or MOBI. Using the online reader, you can link to specific chapters. Visit <GITBOOK-REPO-LINK>
-* The [LeanPub page](LEANPUB-LINK), where you can download as PDF, EPUB, or MOBI (login required). You can also choose to be notified of updates. Visit <LEANPUB-LINK>
+* The main, authoritative [GitHub Repo](https://github.com/ScriptAutomate/automacon-2016-resource-guide)
+* The [GitBook page](https://www.gitbook.com/book/scriptautomate/automacon-2-0-resource-guide), where you can browse books online, or download as PDF, EPUB, or MOBI. Using the online reader, you can link to specific chapters.
 
-GitBook and LeanPub have slightly different PDF formatting output, so you can choose the one you prefer. LeanPub can also notify you when we push updates. Our main GitHub repo is authoritative; repositories on other sites are usually just mirrors used for the publishing process. GitBook will usually contain our latest version, including not-yet-finished bits; LeanPub always contains the most recent "public release" of any book.
+The main GitHub repo is authoritative. GitBook will usually contain the latest version, including not-yet-finished bits.
 
 ---
 
