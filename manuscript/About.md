@@ -6,14 +6,14 @@ From the [AutomaCon website](http://www.automacon.io/):
 
 <center><a rel="logo" href="http://www.automacon.io/"><img alt="AutomaCon Logo" style="border-width:0" src="http://www.automacon.io/img/logo-full-color.png" /></a></center>
 
-<center><i>If you were to conduct an informal survey of our industry peers and ask them to define Infrastructure as Code, it's quite possible that no two answers would be the same. Many would respond "Chef" or "Puppet" or another flavor of configuration management. Others might suggest that container-based solutions such as Docker are the answer. Still others might think of full-stack templating solutions such as Terraform. In reality, none of these tools alone can tell the whole story.</br>
+<center><i>If you were to conduct an informal survey of our industry peers and ask them to define Infrastructure as Code, it's quite possible that no two answers would be the same. Many would respond "Chef" or "Puppet" or another flavor of configuration management. Others might suggest that container-based solutions such as Docker are the answer. Still others might think of full-stack templating solutions such as Terraform. In reality, none of these tools alone can tell the whole story.</br></br>
 
-Modern DevOps concerns have evolved to encompass more holistic approaches to infrastructure automation. AutomaCon will gather the leading minds and practitioners in the DevOps community together to exchange ideas, with the goal of updating and unifying the industry's definition of "Infrastructure as Code". We will draw on the experiences of those who have stories to share, learn about new tooling & workflows, and identify vendor-agnostic best practices.</i></center>
+Modern DevOps concerns have evolved to encompass more holistic approaches to infrastructure automation. AutomaCon will gather the leading minds and practitioners in the DevOps community together to exchange ideas, with the goal of updating and unifying the industry's definition of "Infrastructure as Code". We will draw on the experiences of those who have stories to share, learn about new tooling & workflows, and identify vendor-agnostic best practices.</i></center></br>
 
 This conference was held over three days, and this guide has a dedicated section to each day:
-* Day 1 (HackDay)
-* Day 2
-* Day 3
+ * Day 1 (HackDay)
+ * Day 2
+ * Day 3
 
 ---
 
