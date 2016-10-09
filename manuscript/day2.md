@@ -96,8 +96,7 @@ In this talk we will explore:
 ---
 
 ## Achieving continuous deployment on Kubernetes
-[Dan Bode](), Senior Engineer @ [Intel]()
-Wednesday, September 28, 2016 at 2:30 PM
+**[Dan Bode](), Senior Engineer @ [Intel]()**
 
 At Intel, we selected Kubernetes as the platform for building a Testing-as-a-Service offering for our internal development teams. In doing so we realized several key benefits: it simplified the deployment model, reduced configuration entropy, and allowed us to easily auto-scale agents to meet peak demand.
 
