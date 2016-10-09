@@ -106,9 +106,8 @@ This presentation will cover our solution, including the features we used and th
 
 ---
 
-Infrastructure as Code with Terraform
-by Seth Vargo , Head of Evangelism @ Hashicorp
-Wednesday, September 28, 2016 at 2:50 PM
+## Infrastructure as Code with Terraform
+**Seth Vargo , Head of Evangelism @ Hashicorp**
 
 This talk is aimed at teaching users the internals and externals of Terraform, a free and open source tool for provisioning infrastructure. Terraform truly encapsulates "infrastructure as code" with its declarative DSL, the ability to manage cloud and bare-metal resources, and expanding community support for CDNs, third-party mail providers, and more.
 
