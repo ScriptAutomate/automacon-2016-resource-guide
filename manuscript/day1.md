@@ -5,12 +5,12 @@
 
 *This lightning talk will cover adopting Continuous Deployment (CD) on services that were previously NOT Continuously Deployed. It's "easy" to apply CD to greenfield services, but that's not terribly helpful to all of the existing code out there. This talk will include examples and techniques for introducing CD tooling to engineers, verifying behavior of automation concurrently to existing processes, and keeping stakeholders calm and business needs met throughout the drive to faster delivery and value.*
 
-* Blog: [Robyn's Wordshack](https://robyn.io/)
-* GitHub: [@robynbergeron](https://github.com/robynbergeron)
+* Blog:
+* GitHub:
 * Recordings/Articles of the presentation
-  * 
+  *  
 * Misc Resources
-  * [11Foot8 Bridge Crash Compilation](https://www.youtube.com/watch?v=xzkWTcDZFH0)
+  * 
 
 
 Bots Not Cattle
