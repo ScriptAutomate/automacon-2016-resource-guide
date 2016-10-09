@@ -7,8 +7,8 @@
 
 * Blog: [Package Cloud Blog](http://blog.packagecloud.io/)
 * Recordings/Articles of the presentation
-  * [Infrastructure as Code Might Literally Be Impossible, Part 2 (2015)](http://blog.packagecloud.io/eng/2015/09/15/automacon-infrastructure-as-code-might-be-literally-impossible/)
-  * [Infrastructure as Code Might Literally Be Impossible, Part 1 (2016)](http://blog.packagecloud.io/eng/2016/09/28/automacon-2016-infrastructure-as-code-might-be-literally-impossible-part2/)
+  * [Infrastructure as Code Might Literally Be Impossible, Part 1 (2015)](http://blog.packagecloud.io/eng/2015/09/15/automacon-infrastructure-as-code-might-be-literally-impossible/)
+  * [Infrastructure as Code Might Literally Be Impossible, Part 2 (2016)](http://blog.packagecloud.io/eng/2016/09/28/automacon-2016-infrastructure-as-code-might-be-literally-impossible-part2/)
 * Misc Resources
   * [A Look in the Mirror: Attacks on Package Managers](https://www.cs.arizona.edu/~jsamuel/papers/cappos-samuel-baker-hartman-ccs08.pdf)
   * [Monitoring and Tuning the Linux Networking Stack: Receiving Data](http://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/)
