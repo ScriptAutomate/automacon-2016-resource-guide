@@ -81,6 +81,3 @@ by Baruch Sadogursky , Developer Advocate @ JFrog
 Tuesday, September 27, 2016 at 2:40 PM
 
 DevOps is about eliminating silos to ensure better collaboration between Dev and Ops. Wouldn't it be magical to know exactly when how and what the developer built to make better decisions when, how and what should be packaged, distributed and deployed? In this talk we'll show how you can use JFrog Artifactory metadata to build a completely automated, bulletproof CI/CD pipelines, ensuring that Ops–related artifacts, like rpm packages are built to include only the right Dev-related artifacts.
-
----
-
