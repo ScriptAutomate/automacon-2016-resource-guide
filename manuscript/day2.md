@@ -131,7 +131,7 @@ In this talk, we'll try to answer this question by providing a brief introductio
 ---
 
 State of Infrastructure as Code
-by Chris Munns , Business Development Manager — DevOps @ Amazon Web Services
+by Chris Munns , Business Development Manager -- DevOps @ Amazon Web Services
 Wednesday, September 28, 2016 at 3:50 PM
 
 At Amazon Web Services we think about Infrastructure as Code being able to impact not just your low level infrastructure or operating systems but everything from the virtual cement floor of your Amazon Virtual Private Cloud up through the applications your customers interface with.
