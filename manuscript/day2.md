@@ -140,7 +140,7 @@ Come take a tour of the space as we see it. Learn what layers there are to manag
 
 ---
 
-Everybody has a plan until... — Automation Evolution While Scaling
+Everybody has a plan until... -- Automation Evolution While Scaling
 by Pete Cheslock , Sr Director Ops and Support @ Threat Stack
 Wednesday, September 28, 2016 at 4:10 PM
 
