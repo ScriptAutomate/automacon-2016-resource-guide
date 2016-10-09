@@ -10,10 +10,10 @@ From the [AutomaCon website](http://www.automacon.io/):
 
 Modern DevOps concerns have evolved to encompass more holistic approaches to infrastructure automation. AutomaCon will gather the leading minds and practitioners in the DevOps community together to exchange ideas, with the goal of updating and unifying the industry's definition of "Infrastructure as Code". We will draw on the experiences of those who have stories to share, learn about new tooling & workflows, and identify vendor-agnostic best practices.</i></center></br>
 
-This guide has a dedicated section to each day of the conference:
- * Day 1 (HackDay)
- * Day 2
- * Day 3
+This conference was held over three days, and this guide has a dedicated section to each day:
+* Day 1 (HackDay)
+* Day 2
+* Day 3
 
 ---
 
