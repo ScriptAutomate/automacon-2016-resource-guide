@@ -93,6 +93,12 @@
 * *Getting started with Habitat Plans*
 * *Using Habitat in your Chef workflow*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Achieving Continuous Deployment on Kubernetes
