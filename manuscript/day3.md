@@ -151,7 +151,7 @@
 ---
 
 ## Improving Customer Experience through Infrastructure Automation
-**Brandon Burton , Infrastructure Conductor @ Travis CI**
+**Brandon Burton , Infrastructure Conductor @ [Travis CI](https://twitter.com/travisci)**
 
 *As many of us know, automation is one of the cornerstones of cultivating a "DevOps culture." We've seen how automation helps improve the lives of operations and development folks. But, a "DevOps culture" is also about seeing the business as a whole and how to make "operations" work be seen as critical and important part of the business value chain. We should be thinking about how to directly link our infrastructure automation initiatives back to large goals and objectives that improve the customer experience.*
 
