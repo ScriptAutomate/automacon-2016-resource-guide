@@ -30,36 +30,33 @@
 
 ---
 
-Rust's Community Automation
-by E. Dunham , DevOps Engineer @ Mozilla
-Tuesday, September 27, 2016 at 10:15 AM
+## Rust's Community Automation
+**E. Dunham , DevOps Engineer @ Mozilla**
 
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Behind the scenes, Rust is also a community that nurtures new contributors, consistently enforces its code of conduct, and maintains a high-quality codebase.
+*Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Behind the scenes, Rust is also a community that nurtures new contributors, consistently enforces its code of conduct, and maintains a high-quality codebase.*
 
-This talk will discuss the implementation details, as well as the social motivations and effects, of the customized infrastructure and workflow practices which allow the small core team to have such a significant impact, with special emphasis on the tooling to which contributors offload mundane tasks in order to reduce burnout.
-
----
-
-A culture of safety: minimizing misery in regulated environments
-by Elliot Murphy @ Kindly Ops
-Tuesday, September 27, 2016 at 10:25 AM
-
-Discussions of security, compliance, and safety all too often start and end with technical controls. In this talk I'll share experiences helping multiple companies meet the demands of regulators and customers for safeguarding medical data without driving the engineers to frustration. No buzzwords or FUD, just real human experience of overcoming the challenges to applying infrastructure as code in traditionally conservative domains.
+*This talk will discuss the implementation details, as well as the social motivations and effects, of the customized infrastructure and workflow practices which allow the small core team to have such a significant impact, with special emphasis on the tooling to which contributors offload mundane tasks in order to reduce burnout.*
 
 ---
 
-Kubernetes for Sysadmins
-by Kelsey Hightower , Staff Developer Advocate, Google Cloud Platform @ Google
-Tuesday, September 27, 2016 at 10:40 AM
+##A culture of safety: minimizing misery in regulated environments
+**Elliot Murphy @ Kindly Ops**
 
-In this hands-on workshop you will learn how to build automation tools on top of the Kubernetes API. After attending this workshop you will know how to:
+*Discussions of security, compliance, and safety all too often start and end with technical controls. In this talk I'll share experiences helping multiple companies meet the demands of regulators and customers for safeguarding medical data without driving the engineers to frustration. No buzzwords or FUD, just real human experience of overcoming the challenges to applying infrastructure as code in traditionally conservative domains.*
 
-* Build a workload rebalancer to shift workloads across a Kubernetes cluster
-* Build a custom scheduler
-* Build integrations between Kubernetes and popular load balancers such as Nginx and HAProxy.
-* Distribute application configs and secrets using HashiCorps vault.
+---
 
-This workshop is for advanced Kubernetes users looking to take their Kubernetes skills to the next level. Attendees should have experience managing applications in a Kubernetes cluster.
+## Kubernetes for Sysadmins
+**Kelsey Hightower , Staff Developer Advocate, Google Cloud Platform @ Google**
+
+*In this hands-on workshop you will learn how to build automation tools on top of the Kubernetes API. After attending this workshop you will know how to:*
+
+* *Build a workload rebalancer to shift workloads across a Kubernetes cluster*
+* *Build a custom scheduler*
+* *Build integrations between Kubernetes and popular load balancers such as Nginx and HAProxy.*
+* *Distribute application configs and secrets using HashiCorps vault.*
+
+*This workshop is for advanced Kubernetes users looking to take their Kubernetes skills to the next level. Attendees should have experience managing applications in a Kubernetes cluster.*
 
 ---
 
