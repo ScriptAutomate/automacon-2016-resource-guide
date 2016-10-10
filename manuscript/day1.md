@@ -60,17 +60,14 @@
 
 ---
 
+## Building atop Kubernetes: from fleet to Kubernetes
+**Jason Hansen @ DEIS**
 
-Building atop Kubernetes: from fleet to Kubernetes
-by Jason Hansen @ DEIS
-Tuesday, September 27, 2016 at 12:10 PM
-
-Deis has recently re-platformed our open source, Heroku-inspired PaaS from fleet to Kubernetes. As we've swapped orchestration and scheduling engines we've learned a number of lessons, decomposed a monolithic platform, and built a package manager. Join us and follow along as we install and configure Workflow, a complex, multi-service application. See how we are using Kubernetes abstractions to provide simple developer self-service. After this workshop you will have a solid understanding of Helm and Deis Workflow.
+*Deis has recently re-platformed our open source, Heroku-inspired PaaS from fleet to Kubernetes. As we've swapped orchestration and scheduling engines we've learned a number of lessons, decomposed a monolithic platform, and built a package manager. Join us and follow along as we install and configure Workflow, a complex, multi-service application. See how we are using Kubernetes abstractions to provide simple developer self-service. After this workshop you will have a solid understanding of Helm and Deis Workflow.*
 
 ---
 
-Augmented Reality with JFrog Artifactory : Metadata to automate pipelines from Dev to Ops
-by Baruch Sadogursky , Developer Advocate @ JFrog
-Tuesday, September 27, 2016 at 2:40 PM
+## Augmented Reality with JFrog Artifactory : Metadata to automate pipelines from Dev to Ops
+**Baruch Sadogursky , Developer Advocate @ JFrog**
 
-DevOps is about eliminating silos to ensure better collaboration between Dev and Ops. Wouldn't it be magical to know exactly when how and what the developer built to make better decisions when, how and what should be packaged, distributed and deployed? In this talk we'll show how you can use JFrog Artifactory metadata to build a completely automated, bulletproof CI/CD pipelines, ensuring that Ops–related artifacts, like rpm packages are built to include only the right Dev-related artifacts.
+*DevOps is about eliminating silos to ensure better collaboration between Dev and Ops. Wouldn't it be magical to know exactly when how and what the developer built to make better decisions when, how and what should be packaged, distributed and deployed? In this talk we'll show how you can use JFrog Artifactory metadata to build a completely automated, bulletproof CI/CD pipelines, ensuring that Ops–related artifacts, like rpm packages are built to include only the right Dev-related artifacts.*
