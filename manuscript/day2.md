@@ -54,7 +54,7 @@
 
 *Infrastructure as code and automation generally focuses on servers, storage and application deployment and management. This glosses over the critical function the network plays in the environment. This talk will cover automating and testing all infrastructure, including network and compute. This will also show how to tie network changes to CI/CD pipelines.*
 
-* Blog: [Robyn's Wordshack](https://robyn.io/)
+* Blog: 
 * GitHub: [@plumbis](https://github.com/plumbis)
 * GitLab: [@plumbis](https://gitlab.com/u/plumbis)
 * Recordings/Articles of the presentation
@@ -66,7 +66,7 @@
 ---
 
 ## The Psychology of Security Automation
-**[Jason Chan](https://twitter.com/chanjbs), Engineering Director @ [Netflix]()**
+**[Jason Chan](https://twitter.com/chanjbs), Engineering Director @ Netflix**
 
 *How do engineers perceive security and the security teams they work with? How can these perceptions (and realities) be used to optimize investments in security automation? Drawing on his experience in many areas of the security industry, Jason will discuss how tool builders can successfully approach security automation. Various security-related Netflix OSS projects will be used to illustrate.*
 
@@ -82,7 +82,7 @@
 ---
 
 ## Habitat 101, An Introduction to Habitat
-**[Joshua Timberman](), Code Cleric @ [Chef]()**
+**Joshua Timberman, Code Cleric @ Chef**
 
 *Habitat is an open-source framework that gives modern application teams an application-centric automation platform. Build, deploy, and manage modern and legacy applications with Habitat.*
 
@@ -96,7 +96,7 @@
 ---
 
 ## Achieving Continuous Deployment on Kubernetes
-**[Dan Bode](), Senior Engineer @ [Intel]()**
+**Dan Bode, Senior Engineer @ Intel**
 
 *At Intel, we selected Kubernetes as the platform for building a Testing-as-a-Service offering for our internal development teams. In doing so we realized several key benefits: it simplified the deployment model, reduced configuration entropy, and allowed us to easily auto-scale agents to meet peak demand.*
 
@@ -107,7 +107,7 @@
 ---
 
 ## Infrastructure as Code with Terraform
-**[Seth Vargo](), Head of Evangelism @ [Hashicorp]()**
+**Seth Vargo, Head of Evangelism @ Hashicorp**
 
 *This talk is aimed at teaching users the internals and externals of Terraform, a free and open source tool for provisioning infrastructure. Terraform truly encapsulates "infrastructure as code" with its declarative DSL, the ability to manage cloud and bare-metal resources, and expanding community support for CDNs, third-party mail providers, and more.*
 
@@ -118,7 +118,7 @@
 ---
 
 ## Unikernels: A New Frontier
-**[John Feminella](), Advisor @ [Pivotal]()**
+**John Feminella, Advisor @ Pivotal**
 
 *Unikernels are a powerful new technique for generating compact, isolated containers with minimal surface area. But like all powerful tools, their benefits and disadvantages must be carefully weighed. Are unikernels worth the tradeoffs required?*
 
@@ -127,7 +127,7 @@
 ---
 
 ## State of Infrastructure as Code
-**[Chris Munns](), Business Development Manager -- DevOps @ [Amazon Web Services]()**
+**Chris Munns, Business Development Manager -- DevOps @ Amazon Web Services**
 
 *At Amazon Web Services we think about Infrastructure as Code being able to impact not just your low level infrastructure or operating systems but everything from the virtual cement floor of your Amazon Virtual Private Cloud up through the applications your customers interface with.*
 
@@ -136,7 +136,7 @@
 ---
 
 ## Everybody has a plan until... -- Automation Evolution While Scaling
-**[Pete Cheslock](), Sr Director Ops and Support @ [Threat Stack]()**
+**Pete Cheslock, Sr Director Ops and Support @ Threat Stack**
 
 *Many people dream of the opportunity for a true greenfield deployment opportunity. Where they can join a new or existing company and build things The Right Way™. That idea is all well and good until the plans change. And your plans will always change. There are far too many things outside of your control when it comes to how you design and build your automation tooling. Often times you need to pick something you know will work and promise yourself you will go back and fix it later.*
 
