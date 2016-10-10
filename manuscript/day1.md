@@ -1,7 +1,7 @@
 # AutomaCon Day 1 (Hack Day)
 
 ## Fear, Uncertainty, and Continuous Deployment
-[Eric Sigler](), Head of DevOps @ [PagerDuty]()
+**Eric Sigler, Head of DevOps @ PagerDuty**
 
 *This lightning talk will cover adopting Continuous Deployment (CD) on services that were previously NOT Continuously Deployed. It's "easy" to apply CD to greenfield services, but that's not terribly helpful to all of the existing code out there. This talk will include examples and techniques for introducing CD tooling to engineers, verifying behavior of automation concurrently to existing processes, and keeping stakeholders calm and business needs met throughout the drive to faster delivery and value.*
 
@@ -14,21 +14,19 @@
 
 ---
 
-Bots Not Cattle
-by Josh Berkus , Project Atomic Community Lead @ Red Hat
-Tuesday, September 27, 2016 at 9:55 AM
+## Bots Not Cattle
+**Josh Berkus , Project Atomic Community Lead @ Red Hat**
 
-It's time to replace an outdated metaphor. "Cattle Not Pets" is the slogan of much of the container ecosystem, but that concept breaks down when you start looking at increasingly complex and sophisticated services. I will introduce a new metaphor, "Bots Not Cattle" to discuss how we should be building the smart, self-managing services of the future. Examples will be drawn from the game Robo Rally, and code shown for an example PostgreSQL High Availability service
+*It's time to replace an outdated metaphor. "Cattle Not Pets" is the slogan of much of the container ecosystem, but that concept breaks down when you start looking at increasingly complex and sophisticated services. I will introduce a new metaphor, "Bots Not Cattle" to discuss how we should be building the smart, self-managing services of the future. Examples will be drawn from the game Robo Rally, and code shown for an example PostgreSQL High Availability service*
 
 ---
 
-Being an introvert at a conference is not as hellish as you think it is.
-by JJ Asghar , Sr Partner Engineer @ Chef
-Tuesday, September 27, 2016 at 10:05 AM
+## Being an introvert at a conference is not as hellish as you think it is.
+**JJ Asghar , Sr Partner Engineer @ Chef**
 
-I'd like to give some advice on how to deal with conferences as an introvert. Over the last couple years I've grown and learned to engage with the tech community in ways that an introvert would find challenging. This talk will hopefully help the audience avoid some of the landmines that I have stepped on.
+*I'd like to give some advice on how to deal with conferences as an introvert. Over the last couple years I've grown and learned to engage with the tech community in ways that an introvert would find challenging. This talk will hopefully help the audience avoid some of the landmines that I have stepped on.*
 
-I want to help out my fellow introverts to realize that it's OK to be an introvert at big conferences. We can enjoy them too.
+*I want to help out my fellow introverts to realize that it's OK to be an introvert at big conferences. We can enjoy them too.*
 
 ---
 
