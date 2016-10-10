@@ -57,12 +57,24 @@
 
 *This is the ongoing story of the San Francisco Metropolitan Internet Exchange (SFMIX) — a non-profit IXP run by volunteers and crafted with love, git commits, and Ansible. Using devops and netdevops practices, we've learned a lot along the way about what works, what doesn't work, and what still needs work — and most importantly, how it is relevant to any organization or project. As a bonus, you' ll get to learn all about IXPs and how they help the internet.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 ## Code Review for Operations
 **Spencer Krum , Engineer @ IBM / OpenStack**
 
 *Code review has been shown to help developers produce better code. It can also help SREs run more reliable systems. Our ops team is fanatic about using code review and representing our infrastructure as code so that code review can be leveraged. In this presentation I will show how we use code review to manage our infrastructure, modify and create systems, administer services, etc. I'll show the path we took to get here, what actions couldn't be piped through code review, and what we're going to next.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## MTLS in a Microservices World
@@ -72,6 +84,12 @@
 
 *In this talk, I'll go over the advantages and disadvantages of using MTLS in a microservice architecture, describe how Docker's swarm currently tackles this issue, and give a live demo of how easy it is, and should be, to setup a fully-featured PKI infrastructure for your services.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Metrics are Infra, Metrics are Code: Yelp’s time series data at scale
@@ -85,6 +103,12 @@
 
 *"Who monitors the monitors?" We do.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Organic, Free-Range Automation: A Release Engineering Story
@@ -92,6 +116,12 @@
 
 *The automation around building and shipping software quickly and easily grows to be very complex, especially when supporting a wide variety of platforms. When this automation grows rapidly and organically, the result is a tangled web of tasks that need some hand-holding to successfully run to completion. To allow these processes to scale, we need to move to consistent and reliable automation that can easily be handed off to others. This talk will focus on issues that have sprung up from organic tooling growth, goals for improving the automation, and how we're trying to move in that direction. I will also discuss approaching process improvements when working with legacy codebases, defeating complacency to build better automation, and channeling sadness into tooling improvements.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Network Infrastructure as Code
@@ -99,6 +129,12 @@
 
 *Software-defined Networking (SDN) may seem to be the One and Only Way for the network to stop being the hold up in continuous deployment but that's just not true. Treating the network infrastructure responsible for providing scale and security "in the network" as code provides for a better integrated and agile environment without the architectural debt required to implement SDN. This presentation will cover emerging trends in network infrastructure to support and enable continuous deployment by adopting an "infrastructure as code" approach.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Reflections on a year of DevOps Transformations -- a.k.a. "Tell me again how you thought this would be easy?"
@@ -106,6 +142,12 @@
 
 *A reflection on the first year of Slalom's DevOps Transformation practice, including our point of view on DevOps as an organizational transformation effort (what? its more than tools and tech?), and highlights of our experience, learnings, challenges, and successes helping our clients on their DevOps journey.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Improving Customer Experience through Infrastructure Automation
@@ -114,3 +156,10 @@
 *As many of us know, automation is one of the cornerstones of cultivating a "DevOps culture." We've seen how automation helps improve the lives of operations and development folks. But, a "DevOps culture" is also about seeing the business as a whole and how to make "operations" work be seen as critical and important part of the business value chain. We should be thinking about how to directly link our infrastructure automation initiatives back to large goals and objectives that improve the customer experience.*
 
 *This talk will share some of the key automation objectives the build infrastructure engineering group at Travis CI is doing, the process and challenges we've encountered we figure out how to incorporate the larger focus into work planning, and what's being done to measure the actual customer impact of our new infrastructure automation changes.*
+
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
