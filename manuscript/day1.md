@@ -11,7 +11,6 @@
   *  
 * Misc Resources
   * 
-
 ---
 
 ## Bots Not Cattle
@@ -19,6 +18,12 @@
 
 *It's time to replace an outdated metaphor. "Cattle Not Pets" is the slogan of much of the container ecosystem, but that concept breaks down when you start looking at increasingly complex and sophisticated services. I will introduce a new metaphor, "Bots Not Cattle" to discuss how we should be building the smart, self-managing services of the future. Examples will be drawn from the game Robo Rally, and code shown for an example PostgreSQL High Availability service*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Being an introvert at a conference is not as hellish as you think it is.
@@ -28,6 +33,12 @@
 
 *I want to help out my fellow introverts to realize that it's OK to be an introvert at big conferences. We can enjoy them too.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Rust's Community Automation
@@ -37,6 +48,12 @@
 
 *This talk will discuss the implementation details, as well as the social motivations and effects, of the customized infrastructure and workflow practices which allow the small core team to have such a significant impact, with special emphasis on the tooling to which contributors offload mundane tasks in order to reduce burnout.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ##A culture of safety: minimizing misery in regulated environments
@@ -44,6 +61,12 @@
 
 *Discussions of security, compliance, and safety all too often start and end with technical controls. In this talk I'll share experiences helping multiple companies meet the demands of regulators and customers for safeguarding medical data without driving the engineers to frustration. No buzzwords or FUD, just real human experience of overcoming the challenges to applying infrastructure as code in traditionally conservative domains.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Kubernetes for Sysadmins
@@ -58,6 +81,12 @@
 
 *This workshop is for advanced Kubernetes users looking to take their Kubernetes skills to the next level. Attendees should have experience managing applications in a Kubernetes cluster.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Building atop Kubernetes: from fleet to Kubernetes
@@ -65,9 +94,22 @@
 
 *Deis has recently re-platformed our open source, Heroku-inspired PaaS from fleet to Kubernetes. As we've swapped orchestration and scheduling engines we've learned a number of lessons, decomposed a monolithic platform, and built a package manager. Join us and follow along as we install and configure Workflow, a complex, multi-service application. See how we are using Kubernetes abstractions to provide simple developer self-service. After this workshop you will have a solid understanding of Helm and Deis Workflow.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Augmented Reality with JFrog Artifactory : Metadata to automate pipelines from Dev to Ops
 **Baruch Sadogursky , Developer Advocate @ JFrog**
 
 *DevOps is about eliminating silos to ensure better collaboration between Dev and Ops. Wouldn't it be magical to know exactly when how and what the developer built to make better decisions when, how and what should be packaged, distributed and deployed? In this talk we'll show how you can use JFrog Artifactory metadata to build a completely automated, bulletproof CI/CD pipelines, ensuring that Ops–related artifacts, like rpm packages are built to include only the right Dev-related artifacts.*
+
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
