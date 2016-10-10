@@ -8,7 +8,7 @@
 * Blog: [Nigel's Blog](http://explanatorygap.net/)
 * Blog: [Puppet's Blog](https://puppet.com/blog)
 * Recordings/Articles of the presentation
-  * [UNKNOWN]
+  *  
 * Misc Resources
   * [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011?pldnSite=1)
 
@@ -20,7 +20,7 @@
 * Blog: [GitHub's Blog](https://github.com/blog)
 * GitHub: [@skottler](https://github.com/skottler)
 * Recordings/Articles of the presentation
-  * [UNKNOWN]
+  *  
 * Misc Resources
   * 
 
@@ -32,7 +32,7 @@
 * Blog: [Bethany's Blog](https://github.com/blog)
 * GitHub: [@skottler](https://github.com/skottler)
 * Recordings/Articles of the presentation
-  * [UNKNOWN]
+  *  
 * Misc Resources
   * 
 
@@ -44,7 +44,7 @@
 * Blog: [PagerDuty's Blog](https://www.pagerduty.com/blog/)
 * GitHub: [@skottler](https://github.com/skottler)
 * Recordings/Articles of the presentation
-  * [UNKNOWN]
+  *  
 * Misc Resources
 
 ---
