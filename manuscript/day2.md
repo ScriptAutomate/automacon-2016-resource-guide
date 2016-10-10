@@ -110,6 +110,12 @@
 
 *This presentation will cover our solution, including the features we used and the role that configuration management played in getting us from: "I’ve seen it work" to having confidence that any individual change won’t result in service downtime.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Infrastructure as Code with Terraform
@@ -121,6 +127,12 @@
 
 *Come learn about using Terraform to manage your infrastructure!*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Unikernels: A New Frontier
@@ -130,6 +142,12 @@
 
 *In this talk, we'll try to answer this question by providing a brief introduction to unikernels, show you how to build your own, and explaining the most important considerations of running them in the real world.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## State of Infrastructure as Code
@@ -139,6 +157,12 @@
 
 *Come take a tour of the space as we see it. Learn what layers there are to managing your infrastructure as code and what services and tools AWS and its Partners exist across these.*
 
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
 ---
 
 ## Everybody has a plan until... -- Automation Evolution While Scaling
@@ -147,3 +171,10 @@
 *Many people dream of the opportunity for a true greenfield deployment opportunity. Where they can join a new or existing company and build things The Right Way™. That idea is all well and good until the plans change. And your plans will always change. There are far too many things outside of your control when it comes to how you design and build your automation tooling. Often times you need to pick something you know will work and promise yourself you will go back and fix it later.*
 
 *Join me as I talk about the early days of Threat Stack and how we built out our initial automation and software delivery pipeline. Then, hop on board the scale train as I share with you how we evolved our infrastructure delivery to meet our growing needs. I'll share with you some of the tooling we built in house to help us, as well as the OSS tools that we consume*
+
+* Blog:
+* GitHub:
+* Recordings/Articles of the presentation
+  *  
+* Misc Resources
+  * 
