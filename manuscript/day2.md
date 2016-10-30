@@ -27,7 +27,7 @@
 * Blog: [Digital Ocean Blog](https://www.digitalocean.com/company/blog/)
 * GitHub: [@protochron](https://github.com/protochron)
 * Recordings/Articles of the presentation
-  * 
+  * [Presentation Slides / Code](https://github.com/protochron/automacon-2016-talk)
 
 ---
 
