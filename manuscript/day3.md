@@ -160,6 +160,6 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://speakerdeck.com/solarce/improving-customer-experience-through-infrastructure-automation)
 * Misc Resources
   * 
