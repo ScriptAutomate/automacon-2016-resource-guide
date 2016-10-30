@@ -60,7 +60,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://speakerdeck.com/bronwyn/scaling-a-volunteer-run-internet-exchange-or-how-i-learned-to-stop-worrying-and-love-automation)
 * Misc Resources
   * 
 ---
