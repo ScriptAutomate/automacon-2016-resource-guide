@@ -96,7 +96,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://speakerdeck.com/jtimberman/habitat-101-automacon-2016)
 * Misc Resources
   * 
 ---
