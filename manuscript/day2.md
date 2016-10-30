@@ -73,7 +73,7 @@
 * Blog: [Netflix Tech Blog](http://techblog.netflix.com/)
 * GitHub: [@netflix](http://netflix.github.io/)
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](http://www.slideshare.net/jason_chan/the-psychology-of-security-automation/)
 * Misc Resources
   * [Lemur: Open Source Certificate Manager (Netflix OSS)](https://github.com/Netflix/lemur)
   * [Scumbler: Web App That Kicks Off Workflows Based on Search Results (Netflix OSS)](https://github.com/Netflix/Scumblr)
