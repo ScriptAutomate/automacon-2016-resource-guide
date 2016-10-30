@@ -8,7 +8,7 @@
 * Blog: [Nigel's Blog](http://explanatorygap.net/)
 * Blog: [Puppet's Blog](https://puppet.com/blog)
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://speakerdeck.com/nigelkersten/abstractions-and-metaphors-building-better-tools-and-processes-by-caring-about-words)
 * Misc Resources
   * [Metaphors We Live By](https://www.amazon.com/gp/product/0226468011?pldnSite=1)
 
