@@ -145,7 +145,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://speakerdeck.com/gpeden/slalom-devops-automacon-2016)
 * Misc Resources
   * 
 ---
