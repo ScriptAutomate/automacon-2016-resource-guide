@@ -97,7 +97,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://docs.google.com/presentation/d/1zVx5kSkS209mxFfaLNhCx8-vKnrfr_jDuLZPS6QV9yw/edit#slide=id.p)
 * Misc Resources
   * 
 ---
