@@ -21,7 +21,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](http://jberkus.github.io/pdf_presos/bots_not_cattle_automacon.pdf)
 * Misc Resources
   * 
 ---
