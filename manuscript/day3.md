@@ -119,7 +119,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](http://www.slideshare.net/_morgan/organic-free-range-automation-a-release-engineering-story)
 * Misc Resources
   * 
 ---
