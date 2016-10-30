@@ -58,7 +58,7 @@
 * GitHub: [@plumbis](https://github.com/plumbis)
 * GitLab: [@plumbis](https://gitlab.com/u/plumbis)
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://cumulusnetworks.app.box.com/v/automacon2016)
 * Misc Resources
   * [Demo of Continuous Integration for Networks](https://gitlab.com/plumbis/cumulus-ci-cd)
   * [Behave: Behavior-Driven Development w/ Python](http://pythonhosted.org/behave/)
