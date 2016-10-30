@@ -32,7 +32,7 @@
 * Blog: [Bethany's Blog](https://github.com/blog)
 * GitHub: [@skottler](https://github.com/skottler)
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://speakerdeck.com/skymob/dont-stop-believing-our-infrastructure-as-code-journey-at-paperless-post)
 * Misc Resources
   * 
 
