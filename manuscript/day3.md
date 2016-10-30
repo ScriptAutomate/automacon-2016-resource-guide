@@ -73,7 +73,7 @@
 * Blog:
 * GitHub:
 * Recordings/Articles of the presentation
-  *  
+  *  [Presentation Slides](https://github.com/nibalizer/talk-code_review_for_operations/blob/revealjs/example.md)
 * Misc Resources
   * 
 ---
