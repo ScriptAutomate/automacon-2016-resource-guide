@@ -11,7 +11,7 @@ GitBook Resource Guide of the AutomaCon 2.0 Conference 2016, held in Portland, O
 
 Someone attending who wanted an excuse to put together an ebook made entirely in Markdown, and who wants speakers/attendees to be able to contribute to it as an open-source project.
 
-**[Derek Ardolf](https://twitter.com/scriptautomate), Systems Development Engineer @ [Amazon Web Services](https://twitter.com/awscloud)**
+**[Derek Ardolf](https://twitter.com/scriptautomate), Systems Development Engineer**
 
 * Blog: [HalfwayToInfinite](https://HalfwayToInfinite.com)
 * GitHub: [@ScriptAutomate](https://github.com/scriptautomate)
