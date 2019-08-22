@@ -13,7 +13,7 @@ Someone attending who wanted an excuse to put together an ebook made entirely in
 
 **[Derek Ardolf](https://twitter.com/scriptautomate), Systems Development Engineer**
 
-* Blog: [HalfwayToInfinite](https://HalfwayToInfinite.com)
+* Blog: [icantevenIO](https://icanteven.io)
 * GitHub: [@ScriptAutomate](https://github.com/scriptautomate)
 
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a></center>
